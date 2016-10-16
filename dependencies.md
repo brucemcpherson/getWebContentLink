@@ -1,5 +1,5 @@
 # Google Apps Script Project: getWebContentLink
-This repo (getWebContentLink) was automatically updated on 10 August 2016 11:36:30 BST by GasGit
+This repo (getWebContentLink) was automatically updated on 16 October 2016 15:28:42 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project getWebContentLink
